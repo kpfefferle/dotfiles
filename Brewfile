@@ -3,6 +3,7 @@ cask_args appdir: '/Applications'
 tap 'homebrew/bundle'
 
 brew 'git'
+brew 'grc'
 brew 'nodenv'
 brew 'openssl'
 brew 'ruby-build'
