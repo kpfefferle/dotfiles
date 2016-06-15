@@ -14,5 +14,7 @@
         safecrlf = true
         excludesfile = ~/.gitignore
         editor = vim
+[diff]
+	compactionHeuristic = true
 [help]
         autocorrect = 1
