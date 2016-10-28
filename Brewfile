@@ -10,6 +10,7 @@ brew 'ruby-build'
 brew 'rbenv'
 brew 'tree'
 brew 'watchman'
+brew 'yarn'
 
 cask '1password'
 cask 'arq'
