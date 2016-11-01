@@ -10,6 +10,3 @@
 # RVM and rbenv
 /.rvmrc
 /.rbenv-version
-
-# Bundler binstubs
-/bin/
