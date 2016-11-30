@@ -26,6 +26,9 @@ defaults write NSGlobalDomain KeyRepeat -int 0
 defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool true
 defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool true
 
+# Dark UI
+defaults write NSGlobalDomain AppleInterfaceStyle -string "Dark"
+
 # Autohide the Dock
 defaults write com.apple.dock autohide 1
 
