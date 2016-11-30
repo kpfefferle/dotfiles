@@ -26,6 +26,9 @@ defaults write NSGlobalDomain KeyRepeat -int 0
 defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool true
 defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool true
 
+# Autohide the Dock
+defaults write com.apple.dock autohide 1
+
 # Run the screensaver if we're in the bottom-left hot corner.
 defaults write com.apple.dock wvous-bl-corner -int 5
 defaults write com.apple.dock wvous-bl-modifier -int 0
