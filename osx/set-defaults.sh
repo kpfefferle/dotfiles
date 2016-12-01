@@ -30,7 +30,7 @@ defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool true
 defaults write NSGlobalDomain AppleInterfaceStyle -string "Dark"
 
 # Autohide the Dock
-defaults write com.apple.dock autohide 1
+defaults write com.apple.dock autohide -int 1
 
 # Run the screensaver if we're in the bottom-left hot corner.
 defaults write com.apple.dock wvous-bl-corner -int 5
