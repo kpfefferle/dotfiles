@@ -42,7 +42,7 @@ defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool true
 defaults write com.apple.finder WarnOnEmptyTrash -bool false
 
 # Setup the menu bar date format
-defaults write com.apple.menuextra.clock DateFormat -string h:mm:ss a
+defaults write com.apple.menuextra.clock DateFormat -string "h:mm:ss a"
 # Flash the : in the menu bar
 defaults write com.apple.menuextra.clock FlashDateSeparators -bool false
 
