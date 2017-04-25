@@ -14,7 +14,7 @@ $DOTFILES/homebrew/install.sh 2>&1
 
 # Upgrade homebrew
 echo "› brew update"
-brew update
+brew update && brew doctor && brew outdated && brew upgrade && brew cleanup
 
 # Install software
 echo "› $DOTFILES/script/install"
