@@ -1,19 +1,19 @@
 if test ! $(which bower)
 then
-  npm install -g bower
+  yarn global add bower
 fi
 
 if test ! $(which ember)
 then
-  npm install -g ember-cli
+  yarn global add ember-cli
 fi
 
 if test ! $(which nombom)
 then
-  npm install -g nombom
+  yarn global add nombom
 fi
 
 if test ! $(which phantomjs)
 then
-  npm install -g phantomjs-prebuilt
+  yarn global add phantomjs-prebuilt
 fi
