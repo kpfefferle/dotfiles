@@ -35,7 +35,6 @@ cask 'slack'
 cask 'sonos'
 
 mas 'Acorn', id: 1019272813
-mas 'Airmail 3', id: 918858936
 mas 'Apple Configurator 2', id: 1037126344
 mas 'Fantastical 2', id: 975937182
 mas 'GarageBand', id: 682658836
