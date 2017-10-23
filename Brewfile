@@ -32,7 +32,6 @@ cask 'postman'
 cask 'screenhero'
 cask 'sketch'
 cask 'slack'
-cask 'sonos'
 
 mas 'Acorn', id: 1019272813
 mas 'Apple Configurator 2', id: 1037126344
