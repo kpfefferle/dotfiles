@@ -30,7 +30,6 @@ cask 'imageoptim'
 cask 'keybase'
 cask 'omnifocus'
 cask 'postman'
-cask 'screenhero'
 cask 'sketch'
 cask 'slack'
 
