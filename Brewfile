@@ -4,6 +4,7 @@ tap 'homebrew/bundle'
 tap 'homebrew/core'
 tap 'homebrew/services'
 tap 'homebrew/versions'
+tap 'caskroom/drivers'
 
 brew 'awscli'
 brew 'carthage'
@@ -32,6 +33,7 @@ cask 'omnifocus'
 cask 'postman'
 cask 'sketch'
 cask 'slack'
+cask 'sonos'
 
 mas 'Acorn', id: 1019272813
 mas 'Apple Configurator 2', id: 1037126344
