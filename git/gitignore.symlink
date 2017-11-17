@@ -10,3 +10,6 @@
 # RVM and rbenv
 /.rvmrc
 /.rbenv-version
+
+# Files/folders hidden from iCloud drive
+*.nosync
