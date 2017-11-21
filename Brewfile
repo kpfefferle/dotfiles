@@ -38,7 +38,6 @@ cask 'omnifocus'
 cask 'postman'
 cask 'sketch'
 cask 'slack'
-cask 'softu2f'
 cask 'sonos'
 
 mas 'Acorn', id: 1019272813
