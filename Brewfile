@@ -37,6 +37,7 @@ cask 'licecap'
 cask 'omnifocus'
 cask 'postman'
 cask 'sketch'
+cask 'skype'
 cask 'slack'
 cask 'sonos'
 
