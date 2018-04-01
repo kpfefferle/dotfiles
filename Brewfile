@@ -8,6 +8,8 @@ tap 'caskroom/drivers'
 
 brew 'awscli'
 brew 'carthage'
+brew 'elixir'
+brew 'erlang'
 brew 'git'
 brew 'grc'
 brew 'heroku'
