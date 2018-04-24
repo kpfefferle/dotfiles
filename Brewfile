@@ -42,6 +42,7 @@ cask 'sketch'
 cask 'skype'
 cask 'slack'
 cask 'sonos'
+cask 'visual-studio-code'
 cask 'zoomus'
 
 mas 'Acorn', id: 1019272813
