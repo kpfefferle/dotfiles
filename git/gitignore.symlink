@@ -13,3 +13,6 @@
 
 # Files/folders hidden from iCloud drive
 *.nosync
+
+# VSCode JSConfig
+/jsconfig.json
