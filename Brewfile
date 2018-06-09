@@ -3,7 +3,6 @@ cask_args appdir: '/Applications'
 tap 'homebrew/bundle'
 tap 'homebrew/core'
 tap 'homebrew/services'
-tap 'homebrew/versions'
 tap 'caskroom/drivers'
 
 brew 'awscli'
