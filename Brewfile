@@ -6,7 +6,7 @@ tap 'homebrew/services'
 tap 'caskroom/drivers'
 
 brew 'awscli'
-# brew 'carthage'
+brew 'carthage'
 brew 'elixir'
 brew 'erlang'
 brew 'git'
