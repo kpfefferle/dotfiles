@@ -7,6 +7,7 @@ tap 'caskroom/drivers'
 
 brew 'awscli'
 brew 'carthage'
+brew 'certbot'
 brew 'elixir'
 brew 'erlang'
 brew 'git'
