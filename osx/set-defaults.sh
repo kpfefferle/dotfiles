@@ -30,6 +30,9 @@ defaults write com.apple.dock autohide -int 1
 # Run the screensaver if we're in the bottom-left hot corner.
 defaults write com.apple.dock wvous-bl-corner -int 5
 defaults write com.apple.dock wvous-bl-modifier -int 0
+# Disable the screensaver if we're in the bottom-right hot corner.
+defaults write com.apple.dock wvous-br-corner -int 6
+defaults write com.apple.dock wvous-br-modifier -int 0
 
 # Disable the warning when changing a file extension
 defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
@@ -62,7 +65,7 @@ defaults write com.apple.Safari "com.apple.Safari.ContentPageGroupIdentifier.Web
 defaults write NSGlobalDomain WebKitDeveloperExtras -bool true
 
 # Set screensaver time
-defaults -currentHost write com.apple.screensaver idleTime -int 600
+defaults -currentHost write com.apple.screensaver idleTime -int 300
 # Ask for password for screensaver
 defaults write com.apple.screensaver askForPassword -int 1
 # Set delay before password ask (minutes x 60)
