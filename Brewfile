@@ -23,6 +23,7 @@ brew 'watchman'
 brew 'yarn'
 
 cask '1password'
+cask 'aerial'
 cask 'arq'
 cask 'atom'
 cask 'choosy'
