@@ -7,6 +7,7 @@ tap 'homebrew/services'
 tap 'heroku/brew'
 
 brew 'awscli'
+brew 'jfrog-cli-go'
 brew 'git'
 brew 'heroku'
 brew 'mas'
