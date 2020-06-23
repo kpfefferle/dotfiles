@@ -5,13 +5,13 @@
         "revision": "6b8c64f85049db403e56c1a30328be214a58dbfe"
       },
       "homebrew/core": {
-        "revision": "9deef5f33c8669169bab5749b0b8fa405efd601f"
+        "revision": "92c726158664139c72ee2a9833874f8930b18d8a"
       },
       "homebrew/services": {
         "revision": "fe084e9898933817b607d717b1f140354bd10e1c"
       },
       "caskroom/drivers": {
-        "revision": "731b920aa27b6c078380c98f3fe83322c11f1546"
+        "revision": "e71cde24472bf1716b6efea9847538317d73ce57"
       },
       "heroku/brew": {
         "revision": "2fbdd513b72119e373505ef0c9047a8090cae7d6"
@@ -513,7 +513,7 @@
     "mas": {
       "Acorn": {
         "id": "1233861775",
-        "version": "6.6"
+        "version": "6.6.1"
       },
       "Apple Configurator 2": {
         "id": "1037126344",
@@ -563,7 +563,7 @@
       "catalina": {
         "HOMEBREW_VERSION": "2.4.1",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "9deef5f33c8669169bab5749b0b8fa405efd601f",
+        "Homebrew/homebrew-core": "92c726158664139c72ee2a9833874f8930b18d8a",
         "CLT": "1103.0.32.62",
         "Xcode": "11.5",
         "macOS": "10.15.5"
