@@ -20,6 +20,7 @@ brew 'watchman'
 brew 'yarn'
 
 cask '1password'
+cask '3dconnexion'
 cask 'aerial'
 cask 'arq'
 cask 'autodesk-fusion360'
