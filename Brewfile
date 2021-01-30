@@ -20,7 +20,7 @@ brew 'watchman'
 brew 'yarn'
 
 cask '1password'
-cask '3dconnexion'
+# cask '3dconnexion'
 cask 'aerial'
 cask 'arq'
 cask 'autodesk-fusion360'
@@ -41,7 +41,7 @@ cask 'slack'
 cask 'sonos'
 cask 'teensy'
 cask 'visual-studio-code'
-cask 'zoomus'
+cask 'zoom'
 cask 'wwdc'
 
 mas 'Acorn', id: 1233861775
