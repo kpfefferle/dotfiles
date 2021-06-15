@@ -11,6 +11,7 @@ brew 'git'
 brew 'mas'
 brew 'mysql@5.6'
 brew 'tree'
+brew 'volta'
 brew 'watchman'
 brew 'yarn'
 
