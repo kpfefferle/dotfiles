@@ -46,3 +46,7 @@ which sets up a few paths that'll be different on your particular machine.
 defaults, and so on. Tweak this script, and occasionally run `dot` from
 time to time to keep your environment fresh and up-to-date. You can find
 this script in `bin/`.
+
+## Setting Up a New System
+
+1. Generate and upload an [SSH key for GitHub](https://github.com/settings/keys)
