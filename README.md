@@ -49,4 +49,6 @@ this script in `bin/`.
 
 ## Setting Up a New System
 
+1. [Copy GPG key](https://gpgtools.tenderapp.com/kb/gpg-keychain-faq/backup-or-transfer-your-keys) from prior machine (or create a new one)
 1. Generate and upload an [SSH key for GitHub](https://github.com/settings/keys)
+
