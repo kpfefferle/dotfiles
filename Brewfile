@@ -10,22 +10,16 @@ brew 'awscli'
 brew 'git'
 brew 'heroku'
 brew 'mas'
-brew 'nodenv'
-brew 'postgresql'
-brew 'rbenv'
-brew 'redis'
-brew 'ruby-build'
 brew 'tree'
+brew 'volta'
 brew 'watchman'
 brew 'yarn'
 
 cask '1password'
 # cask '3dconnexion'
-cask 'aerial'
 cask 'arq'
 cask 'autodesk-fusion360'
 cask 'choosy'
-cask 'clocksaver'
 cask 'discord'
 cask 'firefox'
 cask 'google-chrome'
@@ -45,7 +39,6 @@ cask 'zoom'
 cask 'wwdc'
 
 mas 'Acorn', id: 1233861775
-mas 'Apple Configurator 2', id: 1037126344
 mas 'Fantastical 2', id: 975937182
 mas 'GarageBand', id: 682658836
 mas 'iMovie', id: 408981434
