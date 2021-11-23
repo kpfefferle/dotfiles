@@ -38,12 +38,12 @@ cask 'visual-studio-code'
 cask 'zoom'
 cask 'wwdc'
 
-# mas 'Acorn', id: 1233861775
-# mas 'Fantastical 2', id: 975937182
-# mas 'GarageBand', id: 682658836
-# mas 'iMovie', id: 408981434
-# mas 'Keynote', id: 409183694
-# mas 'Magnet', id: 441258766
-# mas 'Numbers', id: 409203825
-# mas 'Pages', id: 409201541
-# mas 'Xcode', id: 497799835
+mas 'Acorn', id: 1233861775
+mas 'Fantastical 2', id: 975937182
+mas 'GarageBand', id: 682658836
+mas 'iMovie', id: 408981434
+mas 'Keynote', id: 409183694
+mas 'Magnet', id: 441258766
+mas 'Numbers', id: 409203825
+mas 'Pages', id: 409201541
+mas 'Xcode', id: 497799835
