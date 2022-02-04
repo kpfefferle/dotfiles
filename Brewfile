@@ -8,6 +8,7 @@ tap 'heroku/brew'
 
 brew 'awscli'
 brew 'git'
+brew 'jq'
 brew 'mas'
 brew 'tree'
 brew 'volta'
