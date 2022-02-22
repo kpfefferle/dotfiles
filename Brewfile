@@ -29,6 +29,7 @@ cask 'postman'
 cask 'skype'
 cask 'slack'
 cask 'teensy'
+cask 'tuple'
 cask 'visual-studio-code'
 cask 'zoom'
 
