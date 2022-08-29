@@ -8,6 +8,7 @@ tap 'heroku/brew'
 
 brew 'awscli'
 brew 'git'
+brew 'git-lfs'
 brew 'jq'
 brew 'mas'
 brew 'mysql-client'
