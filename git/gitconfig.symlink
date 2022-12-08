@@ -8,8 +8,6 @@
   hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
   type = cat-file -t
   dump = cat-file -p
-[commit]
-  gpgsign = true
 [core]
   autocrlf = input
   safecrlf = true
@@ -25,5 +23,3 @@
   rebase = true
 [url "git@github.com:"]
   insteadOf = gh:
-[user]
-	signingkey = 718656CC76F6DF7A
