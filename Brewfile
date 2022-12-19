@@ -7,6 +7,7 @@ tap 'homebrew/services'
 tap 'heroku/brew'
 
 brew 'awscli'
+brew 'cocoapods'
 brew 'elixir'
 brew 'git'
 brew 'heroku'
