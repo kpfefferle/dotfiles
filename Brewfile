@@ -43,7 +43,8 @@ cask 'zoom'
 cask 'wwdc'
 
 mas 'Acorn', id: 1233861775
-mas 'Fantastical 2', id: 975937182
+mas 'Developer', id: 640199958
+mas 'Fantastical', id: 975937182
 mas 'GarageBand', id: 682658836
 mas 'iMovie', id: 408981434
 mas 'Keynote', id: 409183694
