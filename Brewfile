@@ -15,7 +15,6 @@ brew 'volta'
 brew 'watchman'
 brew 'yarn'
 
-cask '1password'
 # cask '3dconnexion'
 # cask 'arq'
 # cask 'autodesk-fusion360'
@@ -43,6 +42,7 @@ cask 'zoom'
 mas 'Acorn', id: 1233861775
 mas 'Developer', id: 640199958
 mas 'Fantastical', id: 975937182
+mas 'Final Cut Pro', id: 424389933
 mas 'GarageBand', id: 682658836
 mas 'iMovie', id: 408981434
 mas 'Keynote', id: 409183694

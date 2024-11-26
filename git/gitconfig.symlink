@@ -12,7 +12,7 @@
   gpgsign = true
 [core]
   autocrlf = input
-  safecrlf = true
+  safecrlf = warn
   excludesfile = ~/.gitignore
   editor = vim
 [diff]
