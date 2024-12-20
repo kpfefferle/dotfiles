@@ -39,7 +39,7 @@ cask 'visual-studio-code'
 cask 'xcodes'
 cask 'zoom'
 
-mas 'Acorn', id: 1233861775
+mas 'Acorn', id: 6737921844
 mas 'Developer', id: 640199958
 mas 'Fantastical', id: 975937182
 mas 'Final Cut Pro', id: 424389933
