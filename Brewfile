@@ -20,7 +20,7 @@ brew 'yarn'
 
 cask 'choosy'
 cask 'firefox'
-cask 'google-chrome'
+# cask 'google-chrome'
 cask 'imageoptim'
 cask 'kap'
 cask 'postman'
