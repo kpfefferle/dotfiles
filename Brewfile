@@ -36,7 +36,7 @@ cask 'sonos'
 cask 'teensy'
 cask 'transmit'
 cask 'visual-studio-code'
-cask 'xcodes'
+cask 'xcodes-app'
 cask 'zoom'
 
 mas 'Acorn', id: 6737921844
