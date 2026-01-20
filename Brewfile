@@ -47,6 +47,7 @@ mas 'Fantastical', id: 975937182
 mas 'Final Cut Pro', id: 424389933
 mas 'GarageBand', id: 682658836
 mas 'iMovie', id: 408981434
+mas 'keymapp', id: 6472865291
 mas 'Keynote', id: 409183694
 mas 'Magnet', id: 441258766
 mas 'Numbers', id: 409203825
