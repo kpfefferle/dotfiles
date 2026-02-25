@@ -5,6 +5,7 @@ tap 'homebrew/services'
 tap 'heroku/brew'
 
 brew 'awscli'
+brew 'gh'
 brew 'git'
 brew 'git-lfs'
 brew 'jq'
