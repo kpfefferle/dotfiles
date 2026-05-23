@@ -12,6 +12,7 @@ brew 'mas'
 brew 'tree'
 brew 'volta'
 brew 'watchman'
+brew 'xcbeautify'
 
 # cask '3dconnexion'
 # cask 'arq'
