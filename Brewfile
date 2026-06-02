@@ -21,7 +21,7 @@ brew 'watchman'
 brew 'yarn'
 
 cask 'choosy'
-cask 'claude-code'
+# cask 'claude-code'
 cask 'firefox'
 # cask 'google-chrome'
 cask 'imageoptim'
