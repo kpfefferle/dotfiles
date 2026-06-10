@@ -48,6 +48,10 @@ unset config_files
 export VOLTA_HOME="$HOME/.volta"
 export PATH="$VOLTA_HOME/bin:$PATH"
 
+# Claude Code
+export PATH="$HOME/.local/bin:$PATH"
+export CLAUDE_CODE_ENABLE_AUTO_MODE=1
+
 eval "$(mise activate zsh)"
 
 # pnpm
