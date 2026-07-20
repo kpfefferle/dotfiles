@@ -30,7 +30,7 @@ cask 'postman'
 # cask 'slack'
 cask 'teensy'
 cask 'tuple'
-cask 'visual-studio-code'
+# cask 'visual-studio-code'
 cask 'zoom'
 
 # mas 'Acorn', id: 1233861775
