@@ -11,3 +11,5 @@
 /.rvmrc
 /.rbenv-version
 
+
+**/.claude/settings.local.json
