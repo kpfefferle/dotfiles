@@ -36,7 +36,7 @@ mas 'CleanMyMac', id: 1339170533
 mas 'Compressor', id: 6746516157
 mas 'Developer', id: 640199958
 mas 'EmberJS Inspector', id: 6451499514
-mas 'Fantastical', id: 975937182
+# mas 'Fantastical', id: 975937182
 mas 'Final Cut Pro', id: 1631624924
 # mas 'Firewatch', id: 1164603847
 mas 'GarageBand', id: 682658836
